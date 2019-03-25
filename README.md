@@ -37,5 +37,5 @@ services:
         environment:
             - VIRTUAL_HOST=example.dev
             - APACHE_DOCUMENT_ROOT=/var/www/html
-```
 
+```
